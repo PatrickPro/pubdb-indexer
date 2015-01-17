@@ -9,7 +9,6 @@ Original database files not provided.
 See example database layout in /pubdb.
 
 ## Usage
-
 Setup mongo, modify paths accordingly. 
 Run the script.
-Use our [pubdb-api](github.com) and [pubdb-d3](www.github.com) 
+Use our [pubdb-api](https://github.com/PatrickPro/pubdb-api) and [pubdb-d3](https://github.com/PatrickPro/pubdb-d3) 
